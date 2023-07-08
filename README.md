@@ -1,5 +1,5 @@
 - ✋ Oi,Eu sou o Brian
-- 👀 I’m interessed Lua
+- 👀 I’m interessed in Lua
 
 <!---
 BrianNax34/BrianNax34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
